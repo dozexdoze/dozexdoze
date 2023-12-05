@@ -11,11 +11,11 @@
   
 - 💞️ I’m looking to collaborate on **projects as a UX designer**
 
-- 👨‍💻 My design projects are available at [https://www.behance.net/roque_filipa](https://www.behance.net/roque_filipa)
+- 👨‍💻 My design projects are available in [Behance](https://www.behance.net/roque_filipa)
 
 - 💬 Ask me about **graphic design and UX design**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/roque-filipa/](https://www.linkedin.com/in/roque-filipa/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/roque-filipa/)
 
 - ⚡ Fun fact **I am studying business level Japanese**
 
