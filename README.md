@@ -11,11 +11,11 @@
   
 - 💞️ I’m looking to collaborate on **projects as a UX designer**
 
-- 👨‍💻 My design projects are available in [Behance](https://www.behance.net/roque_filipa)
+- 👨‍💻 My design projects are available [HERE](https://filiparoque.webflow.io)
 
 - 💬 Ask me about **graphic design and UX design**
 
-- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/roque-filipa/)
+- 📄 Know more about my experiences [Linkedin](https://www.linkedin.com/in/roque-filipa/)
 
 - ⚡ Fun fact **I am studying business level Japanese**
 
@@ -26,6 +26,6 @@
 
 
 <!---
-dozexdoze/dozexdoze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+filiparoque/filiparoque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
