@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Filipa</h1>
-<p align="center">A passionate graphic designer taking my first steps into front-end</p>
+<p align="center">A passionate UX/UI designer taking my first steps into front-end</p>
 
 
 
 
 
-- 🌱 I’m currently learning more about **UX Design and Motion Graphics**
+- 🌱 I’m currently learning more about **Motion Graphics and accessibility**
 
-- 👀 I’m interested in **visual arts**
+- 👀 I’m interested also in **visual arts**
   
-- 💞️ I’m looking to collaborate on **projects as a UX designer**
+- 💞️ I’m looking to collaborate on **projects as a UX product designer**
 
 - 👨‍💻 My design projects are available [HERE](https://filiparoque.webflow.io)
 
-- 💬 Ask me about **graphic design and UX design**
+- 💬 Ask me about **usability, design, interaction, typography**
 
 - 📄 Know more about my experiences [Linkedin](https://www.linkedin.com/in/roque-filipa/)
 
