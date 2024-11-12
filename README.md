@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **usability, design, interaction, typography**
 
-- 📄 Know more about my experiences [Linkedin](https://www.linkedin.com/in/roque-filipa/)
+- 📄 Know more about my experiences on [Linkedin](https://www.linkedin.com/in/roque-filipa/)
 
 - ⚡ Fun fact **I am studying business level Japanese**
 
